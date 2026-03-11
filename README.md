@@ -1,43 +1,9 @@
-# Comparable-Valuation-PE-method
-Comparable company valuation of Tata Motors using PE ratio method and peer analysis. Includes industry multiple calculation, target price estimation and valuation conclusion based on relative valuation approach.
+# Comparable Company Valuation — Tata Motors 
 
-📈 Comparable Company Valuation — PE Method
+Valued Tata Motors using the P/E multiple method, benchmarking against automotive sector peers to derive an intrinsic value and cross-validate findings from a prior DCF analysis.
 
-Author: Yash Bagul
+- Calculated average sector P/E of **37.49x** from peers (Maruti, M&M, Ashok Leyland); applied to Tata Motors' EPS of **INR 1.24** to derive intrinsic value of **INR 46.49** vs. market price of **INR 490** — stock significantly overvalued
 
-This project performs relative valuation of Tata Motors using the Price-to-Earnings (PE) multiple method by comparing it with industry peers.
+- Cross-referenced P/E output (INR 46.49) with DCF result (INR 330) — both methods independently confirmed overvaluation, reinforcing the **SELL recommendation** across two methodologies
 
-🔍 Project Overview
-
-- Selected comparable automobile companies
-
-- Calculated industry average PE multiple
-
-- Derived target share price using EPS
-
-- Compared intrinsic value with market price
-
-- Concluded undervaluation/overvaluation
-
-🛠 Tools Used
-
-- Microsoft Excel
-
-- Equity valuation techniques
-
-- Financial analysis
-
-📁 Files Included
-
-- Excel valuation model
-
-- Presentation slides
-
-- Project report (PDF)
-
-🎯 Skills Demonstrated
-
-- Comparable valuation
-- Equity research
-- Financial analysis
-- Investment banking fundamentals
+**Skills:** Comparable Company Analysis · P/E Valuation · Peer Benchmarking · Equity Research · Cross-Method Validation
