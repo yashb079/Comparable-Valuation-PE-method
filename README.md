@@ -1,9 +1,15 @@
 # Comparable Company Valuation | P/E Multiple Method
 
-- Benchmarked Tata Motors against listed automotive peers (Maruti, M&M, Ashok Leyland) to derive a sector average P/E of 37.49x
+- Tata Motors — DCF & Comparable Company Valuation
 
-- Applied peer multiple to Tata Motors' EPS of INR 1.24, yielding an intrinsic value of INR 46.49 vs. a market price of INR 490
+- Two-method valuation of Tata Motors Ltd. The DCF model uses 5 years of historical financials (FY2020–24) to project FCFs through FY2027. The comparable company analysis values the stock using peer P/E multiples from Maruti Suzuki, M&M, and Ashok Leyland.
 
-- Cross-validated findings against a DCF-derived value of INR 330 — both methodologies independently confirmed significant overvaluation, reinforcing the SELL thesis across two methodologies
+- DCF Result: INR 330/share | Market price INR 382 | Recommendation: SELL
 
-**Skills:** Comparable Company Analysis · P/E Valuation · Peer Benchmarking · Equity Research · Cross-Method Validation
+- Comps Result: INR 46.49/share | Market price INR 490 | Conclusion: Overvalued
+
+- Both methods independently support the same conclusion.
+
+- Tools: Microsoft Excel · PowerPoint
+
+- Concepts: DCF Valuation · Comparable Company Analysis · P/E Multiple · Free Cash Flow · Sensitivity Analysis · Financial Statement Analysis · Peer Selection
